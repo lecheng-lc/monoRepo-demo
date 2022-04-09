@@ -1,5 +1,4 @@
-### test-pnpm-monorepo
-
+### pnpm-monorepo
 ```
 ├── README.md
 ├── package.json
